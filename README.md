@@ -7,7 +7,4 @@ Welcome to my new project. In this project, I created a detailed ( Responsive ) 
 
 HTML and CSS
 
-<h2>Screen Gif</h2>
-
-![](Udemig-Chef's Plate-Screen.gif)
 
